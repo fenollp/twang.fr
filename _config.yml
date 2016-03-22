@@ -16,7 +16,7 @@ exclude: ["Makefile", "CNAME"]
 # Build settings
 markdown: kramdown
 
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   input: GFM
