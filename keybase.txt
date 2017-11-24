@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/fenollp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://twang.fr
+  * I am fenollp (https://keybase.io/fenollp) on keybase.
+  * I have a public key ASAPCTAJhxr4eoNo_rM7TwkuQ_fPQZ3GSXnP4pijTX7laQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f093009871af87a8368feb33b4f092e43f7cf419dc64979cfe298a34d7ee5690a",
+      "host": "keybase.io",
+      "kid": "01200f093009871af87a8368feb33b4f092e43f7cf419dc64979cfe298a34d7ee5690a",
+      "uid": "e1dfab9d9e4c3cc05cd8b72e3f674f19",
+      "username": "fenollp"
+    },
+    "merkle_root": {
+      "ctime": 1511520419,
+      "hash": "3e0b246e259d746a2c5866389e8ce6f8d04e539040ac8dab5b3461f18887f0107e173c7a712082be6fec56e04eab1ad5c836698f37d42c0ac58bb662cbe8f218",
+      "hash_meta": "fa72a125b83fb56dc731aa5dd2b4c19cc6ade41a17c4b746f6554c9fde92de76",
+      "seqno": 1741967
+    },
+    "service": {
+      "hostname": "twang.fr",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1511520436,
+  "expire_in": 504576000,
+  "prev": "0a248a31703a89da923c3cea5f050f2a06d50486b92af5afd18e13bde7ecad5e",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDwkwCYca+HqDaP6zO08JLkP3z0Gdxkl5z+KYo01+5WkKp3BheWxvYWTFAz97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGYwOTMwMDk4NzFhZjg3YTgzNjhmZWIzM2I0ZjA5MmU0M2Y3Y2Y0MTlkYzY0OTc5Y2ZlMjk4YTM0ZDdlZTU2OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGYwOTMwMDk4NzFhZjg3YTgzNjhmZWIzM2I0ZjA5MmU0M2Y3Y2Y0MTlkYzY0OTc5Y2ZlMjk4YTM0ZDdlZTU2OTBhIiwidWlkIjoiZTFkZmFiOWQ5ZTRjM2NjMDVjZDhiNzJlM2Y2NzRmMTkiLCJ1c2VybmFtZSI6ImZlbm9sbHAifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTE1MjA0MTksImhhc2giOiIzZTBiMjQ2ZTI1OWQ3NDZhMmM1ODY2Mzg5ZThjZTZmOGQwNGU1MzkwNDBhYzhkYWI1YjM0NjFmMTg4ODdmMDEwN2UxNzNjN2E3MTIwODJiZTZmZWM1NmUwNGVhYjFhZDVjODM2Njk4ZjM3ZDQyYzBhYzU4YmI2NjJjYmU4ZjIxOCIsImhhc2hfbWV0YSI6ImZhNzJhMTI1YjgzZmI1NmRjNzMxYWE1ZGQyYjRjMTljYzZhZGU0MWExN2M0Yjc0NmY2NTU0YzlmZGU5MmRlNzYiLCJzZXFubyI6MTc0MTk2N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0d2FuZy5mciIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM2In0sImN0aW1lIjoxNTExNTIwNDM2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjBhMjQ4YTMxNzAzYTg5ZGE5MjNjM2NlYTVmMDUwZjJhMDZkNTA0ODZiOTJhZjVhZmQxOGUxM2JkZTdlY2FkNWUiLCJzZXFubyI6NywidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDQopVuiWEqUMfB23fIZvF3grTOrT5WW09H5wPdfUXn9JEjiQBYhlrtGoTTwU8YdMsoUQBsPf/y5hnpBwkCfcIMqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgoM/SK1StdcUJQlZw5Qo1Q8+wIb2duEaCGnriP3t3WDqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fenollp
+
+==================================================================
