@@ -11,7 +11,7 @@ permalink: /:title/
 
 google_analytics_id: UA-72467418-1
 
-exclude: ["Makefile", "CNAME"]
+exclude: ["Makefile", "Gemfile", "Gemfile.lock"]
 
 # Build settings
 markdown: kramdown
